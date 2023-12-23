@@ -5,5 +5,14 @@
 To deploy this project run
 
 ```cmd
-  npm run deploy
+  git clone <link>
+
+```
+
+```cmd
+   cd frontend
+```
+
+```cmd
+   npm start
 ```
